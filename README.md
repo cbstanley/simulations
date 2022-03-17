@@ -7,4 +7,4 @@ for more extensive and real-time analysis.
 
 Example protein RMSF calculation:
 
-![rmsf](rmsf_plot.png)
+<img src="rmsf_plot.png" width="500">
